@@ -54,9 +54,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 #### Employee table:
-![image](https://github.com/varalakshmi1084/WDM_EXP1/assets/93427017/a9ae3a06-0b72-4e7c-aa2a-63f3b6d7e725)
+![wdm1](https://github.com/Senthil-Kumar-710/demo/assets/93860256/e0b670e8-de4b-4eb8-a5f0-db157963d886)
 #### Weather table:
-![image](https://github.com/varalakshmi1084/WDM_EXP1/assets/93427017/fc72e5af-deb1-4c7a-b274-07a88e20cab4)
+![weat](https://github.com/Senthil-Kumar-710/demo/assets/93860256/41d2bf1f-d2e9-4a4b-ae8d-c3ef9861d36e)
 ### PREPROCESSING
 ### Procedure:
 #### 1) Add -> Pre-Processing Technique:
